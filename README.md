@@ -21,9 +21,11 @@ A stylized isometric room created in **Blender** as a 3D modeling and rendering 
 ## 📂 Project Structure
 
 ```
-├── renders/          # Final rendered images
-├── .blend files      # Blender project files
-└── README.md
+├── README.md
+├── room.blend
+├── room.png
+├── solid view.png
+└── wireframe.png
 ```
 
 ## 🚀 Getting Started
