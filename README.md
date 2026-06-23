@@ -4,7 +4,7 @@ A stylized isometric room created in **Blender** as a 3D modeling and rendering 
 
 ## 📸 Preview
 
-
+![Preview](room.png)
 
 ## ✨ Features
 
